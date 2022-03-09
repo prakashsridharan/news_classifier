@@ -1,0 +1,1 @@
+web gunicorn news_classifier_app:app
